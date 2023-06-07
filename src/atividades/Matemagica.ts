@@ -1,4 +1,4 @@
-import { ErrorMessages } from "../../errorMessages"
+import { ErrorMessages } from "../errorMessages"
 
 export class Matemagica{
     private sum(a, b) {

@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals"
-import { Matemagica } from "../src/atividades/matemagica/Matemagica"
+import { Matemagica } from "../src/atividades/Matemagica"
 
 describe('Adições', () => {
     const matemagica = new Matemagica()
